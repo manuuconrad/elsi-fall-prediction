@@ -13,6 +13,16 @@ The model identified that functional and clinical factors often outweigh chronol
 
 <img width="989" height="590" alt="Unknown-4" src="https://github.com/user-attachments/assets/4a52f167-d636-4db6-884d-c7c52a63cab2" />
 
+## 🧪 Clinical Scenarios & Patient Simulations
+To demonstrate the tool's practical application in a geriatric ward or primary care setting, I conducted four test simulations based on common clinical profiles:
+
+| Patient | Profile Summary | Estimated Risk | Clinical Recommendation |
+| :--- | :--- | :--- | :--- |
+| **A** | 69yo, Female, Sleep issues, 5+ meds | **57.5%** | Moderate Risk: Environmental monitoring. |
+| **B** | 74yo, Female, Diabetes, Sleep issues | **61.0%** | **High Risk**: Immediate intervention (PT/Sleep review). |
+| **C** | 66yo, Male, Visual impairment, Diabetes | **48.6%** | Moderate Risk: Vision and environmental check. |
+| **D** | 85yo, Male, Arthritis, 7+ meds, Sleep issues | **69.6%** | **High Risk**: Physical therapy & medication review. |
+
 
 ## 🛠️ Data Science & Technical Stack
 - **Language:** Python

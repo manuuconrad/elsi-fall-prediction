@@ -24,6 +24,12 @@ The model identified that functional and clinical factors often outweigh chronol
 1. **`Predicting_Fall_Risk_ELSI_Brazil.ipynb`**: The complete data pipeline, including cleaning, exploratory analysis, and model evaluation.
 2. **Clinical Simulator**: A Python function within the notebook that calculates a patient's fall probability in real-time based on their clinical profile.
 
+## 🛠️ How to Use
+You can interact with the model directly in your browser:
+1. Click "Open in Colab" at the top of the notebook.
+2. Run all cells (`Ctrl + F9`).
+3. Scroll down to the **"Clinical Simulator"** section and input your patient's data into the function.
+
 ---
 **Academic Goal:** This portfolio serves as a technical demonstration of my skills for Master's applications in *Digital Science*, *Health Data Analytics*, or *Medical Informatics* in Italy.
 

@@ -11,7 +11,7 @@ The model identified that functional and clinical factors often outweigh chronol
 * **Arthritis (OR: 1.61):** A clinical diagnosis of arthritis is a significant predictor of mechanical falls.
 * **Visual Acuity (OR: 1.33):** Difficulties in vision, even with corrective lenses, remain a critical risk factor.
 
-<img width="989" height="590" alt="Unknown-4" src="https://github.com/user-attachments/assets/4a52f167-d636-4db6-884d-c7c52a63cab2" />
+![Legenda da Imagem](Unknown-5.png)
 
 ## 🧪 Clinical Scenarios & Patient Simulations
 To demonstrate the tool's practical application in a geriatric ward or primary care setting, I conducted four test simulations based on common clinical profiles:

@@ -20,15 +20,9 @@ The model identified that functional and clinical factors often outweigh chronol
 - **Handling Imbalanced Data:** Employed `class_weight='balanced'` within a Logistic Regression framework to address the rarity of fall events, successfully increasing the model's **Recall** from 0.01 to **0.58**.
 - **Clinical Feature Engineering:** Transformed raw health surveys into a structured matrix for predictive modeling.
 
-## 📊 Repository Structure
-1. **`Predicting_Fall_Risk_ELSI_Brazil.ipynb`**: The complete data pipeline, including cleaning, exploratory analysis, and model evaluation.
-2. **Clinical Simulator**: A Python function within the notebook that calculates a patient's fall probability in real-time based on their clinical profile.
 
-## 🛠️ How to Use
-You can interact with the model directly in your browser:
-1. Click "Open in Colab" at the top of the notebook.
-2. Run all cells (`Ctrl + F9`).
-3. Scroll down to the **"Clinical Simulator"** section and input your patient's data into the function.
+## 📊 Data Source: 
+This study uses data from the ELSI-Brazil, which is supported by the Brazilian Ministry of Health and the Ministry of Science, Technology, and Innovation. Citation: Lima-Costa MF, et al. The Brazilian Longitudinal Study of Aging (ELSI-Brazil): Objectives and Design. Am J Epidemiol. 2018.
 
 ---
 **Academic Goal:** This portfolio serves as a technical demonstration of my skills for Master's applications in *Digital Science*, *Health Data Analytics*, or *Medical Informatics* in Italy.

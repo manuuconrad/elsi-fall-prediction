@@ -3,7 +3,7 @@
 This project was developed as part of my transition from **Medicine** to **Digital Science**. It leverages machine learning to identify high-risk patients for falls using real-world data from the **ELSI-Brazil (English Longitudinal Study of Ageing)**, a nationally representative study of Brazilians aged 50 and older.
 
 ## 📝 Project Overview
-Falls are a major public health challenge in geriatrics, leading to loss of independence and high healthcare costs. This project applies **Predictive Analytics** to clinical and socioeconomic variables to provide a data-driven tool for fall prevention and clinical decision support.
+Falls are a major public health challenge in geriatrics, leading to loss of independence and high healthcare costs. This project applies **Predictive Analytics** to clinical and socioeconomic variables to provide a data-driven tool tool for Clinical Decision Support (CDS) and fall prevention strategies.
 
 ## 🚀 Key Clinical Insights (Odds Ratio)
 The model identified that functional and clinical factors often outweigh chronological age as predictors:

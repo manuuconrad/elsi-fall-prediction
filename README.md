@@ -1,6 +1,6 @@
 # 🏥 Predicting Fall Risk in Older Adults (ELSI-Brazil Dataset)
 
-This project was developed as part of my transition from **Medicine** to **Digital Science**. It leverages machine learning to identify high-risk patients for falls using real-world data from the **ELSI-Brazil (English Longitudinal Study of Ageing)**, a nationally representative study of Brazilians aged 50 and older.
+This project was developed as part of my exploration of health data science during medical training. It leverages machine learning to identify high-risk patients for falls using real-world data from the **ELSI-Brazil (English Longitudinal Study of Ageing)**, a nationally representative study of Brazilians aged 50 and older.
 
 ## 📝 Project Overview
 Falls are a major public health challenge in geriatrics, leading to loss of independence and high healthcare costs. This project applies **Predictive Analytics** to clinical and socioeconomic variables to provide a data-driven tool tool for Clinical Decision Support (CDS) and fall prevention strategies.

@@ -7,7 +7,7 @@ Falls are a major public health challenge in geriatrics, leading to loss of inde
 
 ## 🚀 Key Clinical Insights (Odds Ratio)
 The model identified that functional and clinical factors often outweigh chronological age as predictors:
-* **Sleep Quality (OR: 1.72):** Poor or non-restorative sleep increased the risk of falling by 72%.
+* **Sleep Quality (OR: 1.72):** Poor sleep quality was associated with 72% higher odds of reporting a fall
 * **Arthritis (OR: 1.61):** A clinical diagnosis of arthritis is a significant predictor of mechanical falls.
 * **Visual Acuity (OR: 1.33):** Difficulties in vision, even with corrective lenses, remain a critical risk factor.
 
